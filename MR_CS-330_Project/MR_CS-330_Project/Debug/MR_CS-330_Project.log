@@ -1,0 +1,72 @@
+﻿  BackScratcherMesh.cpp
+  CubeLightMesh.cpp
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\CubeLightMesh.cpp(175,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CubeMesh.cpp
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\CubeMesh.cpp(155,61): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\CubeMesh.cpp(582,61): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+  CylinderMesh.cpp
+  FrustumMesh.cpp
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\FrustumMesh.cpp(316,61): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\FrustumMesh.cpp(540,61): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\FrustumMesh.cpp(52,19): warning C4101: 'color': unreferenced local variable
+  HeadsetMesh.cpp
+  InputHandler.cpp
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\InputHandler.cpp(65,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\InputHandler.cpp(66,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\InputHandler.cpp(71,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\InputHandler.cpp(72,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\InputHandler.cpp(75,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\InputHandler.cpp(76,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\InputHandler.cpp(85,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\Main.cpp(407,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\Main.cpp(564,27): warning C4018: '<': signed/unsigned mismatch
+  Mesh.cpp
+  PlaneMesh.cpp
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\PlaneMesh.cpp(86,61): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\PlaneMesh.cpp(173,61): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+  PS5ControllerMesh.cpp
+  PyramidMesh.cpp
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\PyramidMesh.cpp(113,61): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\MR_CS-330_Project\PyramidMesh.cpp(337,61): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+  ShaderManager.cpp
+  SodaCanMesh.cpp
+  SphereMesh.cpp
+  TorusMesh.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  MR_CS-330_Project.vcxproj -> C:\Users\mattr\OneDrive\C++_Visual_Studio\CS-330_Assignments\MR_CS-330_Project - mod 7\Debug\MR_CS-330_Project.exe
+  C:\OpenGL\GLEW\bin\Release\Win32\glew32.dll
+  1 File(s) copied
